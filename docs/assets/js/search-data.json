@@ -1,0 +1,37 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "Infrarants are 15+15 minute sessions about infrastructure. They consist of 15 minutes of ranting or raving about something infrastructure related and can be about the good or bad, followed by 15 minutes of questions. Each evening will have 3 speakers followed by a trip to the pub. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"1": {
+    "doc": "Archive",
+    "title": "Archive",
+    "content": " ",
+    "url": "/archive",
+    
+    "relUrl": "/archive"
+  },"2": {
+    "doc": "Categories",
+    "title": "Categories",
+    "content": " ",
+    "url": "/categories/",
+    
+    "relUrl": "/categories/"
+  },"3": {
+    "doc": "Speaker application",
+    "title": "Speaker application",
+    "content": "Please fill in the form below to apply to speak at Infrarants London . ",
+    "url": "/speak/",
+    
+    "relUrl": "/speak/"
+  },"4": {
+    "doc": "Speakers form",
+    "title": "Speakers form",
+    "content": "Please ensure you fill in the form below at least 2 weeks before your speaking slot. ",
+    "url": "/speakerinfo/",
+    
+    "relUrl": "/speakerinfo/"
+  }
+}
