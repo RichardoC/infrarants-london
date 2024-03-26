@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speakers form
+#title: Speakers form # Blank title to stop it showing up in the sidebar
 permalink: /speakerinfo/
 ---
 Please ensure you fill in the form below at least 2 weeks before your speaking slot.
